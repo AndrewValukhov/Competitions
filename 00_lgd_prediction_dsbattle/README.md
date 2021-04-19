@@ -15,3 +15,6 @@
 
 #### Используемые библиотеки:
 - Python, NumPy, pandas, seaborn, scikit-learn, CatBoost.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i1o-wda6uHsX_Nq32EuXXRXc87c0calh?usp=sharing
+)
