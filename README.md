@@ -4,4 +4,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [dsbattle.com - LGD Prediction](00_lgd_prediction_dsbattle) | Построение модели машинного обучения для прогнозирования доли средств, которые банк потеряет в случае дефолта заемщика| Python, NumPy, pandas, seaborn, scikit-learn, CatBoost |
+| [dsbattle.com - LGD Prediction](00_lgd_prediction_dsbattle) | Построение модели машинного обучения для прогнозирования доли средств, которые банк потеряет в случае дефолта заемщика. Второе место| Python, NumPy, pandas, seaborn, scikit-learn, CatBoost |
