@@ -6,3 +6,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [dsbattle.com - LGD Prediction](00_lgd_prediction_dsbattle) | Построение модели машинного обучения для прогнозирования доли средств, которые банк потеряет в случае дефолта заемщика. Второе место| Python, NumPy, pandas, seaborn, scikit-learn, CatBoost |
 [*******************](01_) | *************************** | Python, NumPy, pandas, scikit-learn |
+[*******************](02_) | *************************** | Python, NumPy, pandas, scikit-learn, simple_transformers, transformers |
